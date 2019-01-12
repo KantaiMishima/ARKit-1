@@ -13,3 +13,6 @@ VIO(Visual-Inertial Odometry)：カメラやセンサから環境マッピング
 # デモ集
 ## [DetectHPlane](https://github.com/da351hon/DetectHPlane)
 水平面を認識し、球を配置する。
+
+## [DetectImage](https://github.com/da351hon/DetectImage)
+画像を認識し、3D文字を配置する。
