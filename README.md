@@ -11,5 +11,5 @@ VIO(Visual-Inertial Odometry)：カメラやセンサから環境マッピング
 ここではARKit2.0を対象とし、iOS12以上のiPhone/iPad、Xcode10.0以上を搭載したMacを使用。
 
 # デモ集
-## [DetectHPlane](detect_hplane.md)
+## [DetectHPlane](https://github.com/da351hon/DetectHPlane)
 水平面を認識し、球を配置する。
