@@ -16,3 +16,10 @@ VIO(Visual-Inertial Odometry)：カメラやセンサから環境マッピング
 
 ## [DetectImage](https://github.com/da351hon/DetectImage)
 画像を認識し、3D文字を配置する。
+
+## [MLKit-ARKit(Firebaseブログ)](https://firebase.googleblog.com/2018/12/see-how-ml-kit-and-arkit-play-together.html)
+Firebaseブログで紹介されている機会学習モジュール(MLKit)とARKitを組み合わせたプロジェクト。  
+タップした位置の画像認識結果が3D文字で配置される。  
+Firebase：Google提供のモバイルアプリ開発プラットフォーム。
+
+
